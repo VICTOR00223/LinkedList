@@ -20,7 +20,7 @@ A simple implementation of a **sorted singly linked list** in Java.
    git clone https://github.com/VICTOR00223/LinkedList.git
 ```
 2. Navigate to the project folder:
-   ```bash
+ ```bash
 cd LinkedList
    ```
 3. Compile all Java files:
