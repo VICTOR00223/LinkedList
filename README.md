@@ -17,7 +17,7 @@ A simple implementation of a **sorted singly linked list** in Java.
 
 1. Clone the repository. 
 ```bash
-   git clone https://github.com/VICTOR00223/LinkedList.git
+git clone https://github.com/VICTOR00223/LinkedList.git
 ```
 2. Navigate to the project folder:
  ```bash
