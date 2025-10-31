@@ -21,7 +21,7 @@ A simple implementation of a **sorted singly linked list** in Java.
 ```
 2. Navigate to the project folder:
    ```bash
-   cd LinkedList
+cd LinkedList
    ```
 3. Compile all Java files:
 ```bash
