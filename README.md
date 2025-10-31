@@ -25,7 +25,9 @@ cd LinkedList
    ```
 3. Compile all Java files:
 ```bash
-javac Main.java LinkedList.java Node.java
+javac Main.
+java LinkedList.
+java Node.java
 ```
 4. Run the main program:
 ```bash
